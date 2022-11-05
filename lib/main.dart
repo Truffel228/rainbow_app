@@ -25,6 +25,10 @@ class MainPage extends StatelessWidget {
 
   // Add some changed to project
   // Add some changed to dev branch
+  // First commit in new branch
+  // Second commit in new branch
+  // Third commit in new branch
+  // Very last commit
   @override
   Widget build(BuildContext context) {
     return Scaffold(
